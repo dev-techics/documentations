@@ -17,6 +17,7 @@ Whether you’re handling legal cases, research files, or structured documentati
 
 ## 🚀 Features
 
+- Dashboard
 - Create project/case/bundle 
 - Import documents(pdfs)
 - Auto Index 
@@ -25,3 +26,21 @@ Whether you’re handling legal cases, research files, or structured documentati
 - Header/Footer text
 - Auto page numbering
 - Export
+
+
+## 🧰 Tech Stack
+
+### Frontend
+
+- Typescript
+- React
+- redux
+- Tailwindcss
+- shadcn
+- pdf-lib
+- react-pdf
+- dnd-kit
+
+### Backend
+
+- laravel

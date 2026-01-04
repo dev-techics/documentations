@@ -31,16 +31,16 @@ Whether you’re handling legal cases, research files, or structured documentati
 ## 🧰 Tech Stack
 
 ### Frontend
-
+```
 - Typescript
 - React
-- redux
-- Tailwindcss
-- shadcn
-- pdf-lib
-- react-pdf
-- dnd-kit
-
+- redux - state management
+- Tailwindcss - css
+- shadcn - ui library
+- pdf-lib - for generating new pdfs with annotations
+- react-pdf - rendering pdf in the editor
+- dnd-kit - for drag and drop
+```
 ### Backend
 
 - laravel

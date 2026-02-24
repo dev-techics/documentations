@@ -88,4 +88,6 @@ Seamlessly move between documents, pages, and comments while maintaining full co
 ### 🔐 Secure User Access
 User authentication ensures that projects and documents are accessible only to authorized users.
 
-
+## Convension (Best Practice)
+- Use kebab case for folder name
+- Use PascalCase in component name

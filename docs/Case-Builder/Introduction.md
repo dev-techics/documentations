@@ -19,10 +19,11 @@ Whether you’re handling legal cases, research files, or structured documentati
 
 - Dashboard
 - Create project/case/bundle 
-- Import documents(pdfs)
+- Import documents - support any file formate
 - Auto Index 
-- Highlights 
+- Highlight text 
 - Comments
+- Redaction
 - Header/Footer text
 - Auto page numbering
 - Export
@@ -37,9 +38,10 @@ Whether you’re handling legal cases, research files, or structured documentati
 - redux - state management
 - Tailwindcss - css
 - shadcn - ui library
-- pdf-lib - for generating new pdfs with annotations
 - react-pdf - rendering pdf in the editor
 - dnd-kit - for drag and drop
+- lexical - text editor(cover page design)
+- icon - lucide-react + huge-icons
 ```
 ### Backend
 
